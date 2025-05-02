@@ -1,16 +1,20 @@
-## Hi there 👋
+# Agentic AI Mastery Blueprint 🚀
 
-<!--
-**officialdestinyok/officialdestinyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my official profile!**
 
-Here are some ideas to get you started:
+I'm currently building intelligent tools that merge automation, strategy, and innovation.  
+This space showcases my flagship project — the **Agentic AI Mastery Blueprint**, a transformative guide designed for creators, developers, and tech entrepreneurs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [**Download the Blueprint Here**](https://selar.com/m/DyLeeproAi43210)
+
+---
+
+### 🔧 What I Do
+- AI Strategy & Automation
+- Technical Product Development
+- Content Systems for Scalable Growth
+
+---
+
+### 📬 Let's Connect
+[Linktree](https://linktr.ee/officialdestinyok) • [Upwork](https://www.upwork.com/freelancers/~01d3b120cddd54d5ea) • [Facebook](https://facebook.com/officialdestinyok)
