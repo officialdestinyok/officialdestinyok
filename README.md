@@ -1,5 +1,4 @@
-https://github.com/officialdestinyok/officialdestinyok/blob/9ce4c82de27d1e4251d25208bf30d52d604664ed/IMG_5721.jpeg
-
+https://raw.githubusercontent.com/officialdestinyok/officialdestinyok/main/IMG_5721.jpeg
 # Welcome to the Agentic AI Mastery Blueprint
 
 This repository showcases the innovation of Destiny Okpanefe in automation, AI strategy, and digital transformation.
