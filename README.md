@@ -1,4 +1,4 @@
-![Agentic AI Mastery Banner](https://raw.githubusercontent.com/officialdestinyok/officialdestinyok/main/IMG_5721.jpeg)
+![Agentic AI Mastery Banner](IMG_5721.jpeg)
 
 # Welcome to the Agentic AI Mastery Blueprint
 
