@@ -1,7 +1,8 @@
+![Agentic AI Banner](https://raw.githubusercontent.com/officialdestinyok/officialdestinyok/main/IMG_5721.jpeg)
+IMG_5721.jpeg
 <p align="center">
   <img src="https://raw.githubusercontent.com/officialdestinyok/officialdestinyok/main/IMG_5721.jpeg" alt="Agentic AI Banner" style="width:100%;" />
 </p>
-
 # 🚀 Welcome to the Agentic AI Mastery Blueprint
 
 This repository showcases the innovation of **Destiny Okpanefe** in automation, AI strategy, and digital transformation.
