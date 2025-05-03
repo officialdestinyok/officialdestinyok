@@ -1,7 +1,5 @@
 ![Agentic AI Mastery Banner](https://raw.githubusercontent.com/officialdestinyok/officialdestinyok/main/IMG_5721.jpeg)
 
-# 🚀 Welcome to the **Agentic AI Mastery Blueprint**
-
 This repository showcases the innovation of **Destiny Okpanefe** in automation, AI strategy, and digital transformation.
 
 ---
