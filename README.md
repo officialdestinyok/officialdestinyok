@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/officialdestinyok/officialdestinyok/main/IMG_5721.jpeg" alt="Agentic AI Banner" style="width:100%;" />
-</p>
+<h3 align="center"><strong>✨ Agentic AI Mastery Blueprint ✨</strong></h3>
 
 # 🚀 Welcome to the Agentic AI Mastery Blueprint
 
